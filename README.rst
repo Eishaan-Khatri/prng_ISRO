@@ -1,7 +1,7 @@
 Pseudo Random Number Generation through Reinforcement Learning and Recurrent Neural Networks
 ********************************************************************************************
-
-Luca Pasqualini, Maurizio Parton
+I have been using the repo from Luca Pasqualini, Maurizio Parton, to try and test my solutions.
+More info is below.
 ################################################################
 
 GitHub for a reinforcement learning research project consisting in simulating a novel Random Number Generator (RNG) by Deep Reinforcement Learning and Recurrent Neural Networks.
